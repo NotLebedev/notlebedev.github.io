@@ -1,0 +1,1 @@
+import{c as o,t}from"./index-B839bF6D.js";import{M as e}from"./Metas-BvAMAC13.js";var a=t("<h1>This page does not exist"),r=t("<p>You should <a href=/>go home</a>.");const p=()=>[o(e,{title:"404"}),a(),r()];export{p as default};

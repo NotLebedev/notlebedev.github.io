@@ -1,11 +1,1 @@
-{
-    "images": [
-        {
-            "id": "capitol-bw",
-            "name": "Present Capitol",
-            "file": "/images/capitol-bw.jpg",
-            "camera": "Sony \u03b17c",
-            "lens": "Samyang 24mm f/2.8 AF"
-        }
-    ]
-}
+{"images":[{"id":"stigma","name":"Stigma","previewWidth":768,"camera":"Sony α7c","lens":"Sony 90mm f/2.8 macro G OSS","tags":["digital","nature","macro"]},{"id":"symbols","name":"Symbols","previewWidth":341,"camera":"Sony α7c","lens":"Tamron 70-300mm F/4.5-6.3 Di III RXD","tags":["digital","architecture","moscow"]},{"id":"farmlands","name":"Farmlands","previewWidth":768,"camera":"Sony α7c","lens":"Sony 90mm f/2.8 macro G OSS","tags":["digital","nature","macro"]},{"id":"pathways","name":"Pathways","previewWidth":768,"camera":"Sony α7c","lens":"Samyang 24mm f/2.8","tags":["digital","nature","landscape"]},{"id":"a7c","name":"α7c","previewWidth":768,"description":"Beautiful Sony α7c that I use most of the time. Has a nice retro look to it, especially with this \"pancake\" (by fullframe mirorrless camera standard) Samyang 24mm f/2.8 lens\n\nExperiment with macro fotography and focus stacking","camera":"Sony α7","lens":"Sony 90mm f/2.8 macro G OSS","tags":["digital","macro","product"]},{"id":"sternwarte","name":"Die Sternwarte","previewWidth":768,"camera":"Sony α7c","lens":"Sony 90mm f/2.8 Macro","tags":[]},{"id":"ruddy-shelduck","name":"Tadorna ferruginea","previewWidth":770,"camera":"Sony α7c","lens":"Tamron 70-300mm F/4.5-6.3 Di III RXD","tags":[]},{"id":"infrablue","name":"Infrablue","previewWidth":341,"camera":"Sony α7c","lens":"Tamron 70-300mm F/4.5-6.3 Di III RXD","tags":["digital","veliky novgorod","architecture","daytime"]},{"id":"rosea-nubes","name":"Rosea Nubes","previewWidth":768,"camera":"Sony α7c","lens":"Tamron 70-300mm F/4.5-6.3 Di III RXD","tags":[]},{"id":"purpura-nubes","name":"Purpura Nubes","previewWidth":619,"camera":"Sony α7c","lens":"Tamron 70-300mm F/4.5-6.3 Di III RXD","tags":[]},{"id":"capitol","name":"Modern Capitol","previewWidth":768,"description":"Digital photo with film like preset applied","camera":"Sony α7c","lens":"Samyang AF 24mm f/2.8","tags":["digital","architecture","moscow","film-like"]},{"id":"city-under-a-hill","name":"City Under a Hill","previewWidth":837,"camera":"Sony α7c","lens":"Sony 90mm f/2.8 Macro","tags":[]},{"id":"tass","name":"TASS","previewWidth":768,"camera":"Sony α7c","lens":"Tamron 70-300mm F/4.5-6.3 Di III RXD","tags":["digital","architecture","moscow","daytime"]}]}
